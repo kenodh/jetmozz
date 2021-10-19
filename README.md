@@ -1,0 +1,2 @@
+# jetmozz
+jetmozz programming language
